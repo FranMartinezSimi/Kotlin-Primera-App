@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">clase2</string>
+    <string name="lbl_nombre">Titlo</string>
+    <string name="Nombre">Titulo</string>
+    <string name="Titulo">Titulo Principal</string>
+    <string name="lbl_username">Nombre Usuario</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="admin">Admin</string>
+    <string name="usuario">Usuario</string>
+    <string name="lbl_ingresar">ingresar</string>
+</resources>
